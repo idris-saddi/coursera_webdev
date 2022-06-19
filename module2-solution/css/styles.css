@@ -152,7 +152,7 @@ header {
 
 .item{
   position: relative;
-  border: 3px solid black;
+  border: 1px solid black;
   background-color: #ffbe81b0;
   margin: 15px;
   padding: 20px;
@@ -164,8 +164,8 @@ h2 {
   width:150px;
   text-align: center;
   position:absolute;
-  right: 20px;
-  top:5px;
+  right: -1px;
+  top:-21px;
 }
 
 p {
@@ -185,5 +185,5 @@ p {
   background-color: greenyellow;
 }
 #title3 {
-  background-color: sandybrown;
+  background-color: red;
 }
