@@ -6,3 +6,6 @@ https://idris-saddi.github.io/coursera_webdev/module2-solution
 
   MODULE 3 :       
 https://idris-saddi.github.io/coursera_webdev/module3-solution
+
+  MODULE 4 :       
+https://idris-saddi.github.io/coursera_webdev/module4-solution
